@@ -1,0 +1,8 @@
+rosa@unicorniosrosados
+
+Root:
+	Sudo version 1.8.31
+	Vulnerable to CVE-2021-3560
+	Port 8080 [ /usr/bin/python3.9 /opt/monitoring_site/app.py ]
+
+Got root with port 8080 simple
